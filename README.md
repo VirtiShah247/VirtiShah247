@@ -27,8 +27,7 @@
 
 - :zap: In my free time, I listen to songs ,solve problems on the Hackerrank and learning new concepts.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VirtiShah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virti-shah-a692a722a/) or you can mail me on: [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vpshah247@gmail.com)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VirtiShah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virti-shah-a692a722a/) or you can mail me on: ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:vpshah247@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
