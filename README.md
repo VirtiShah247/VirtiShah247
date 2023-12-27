@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/virti-shah-a692a722a/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +13,7 @@
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
 
 ### :woman_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -22,7 +23,7 @@
 
 - :zap: In my free time, I listen to songs ,solve problems on the Hackerrank and learning new concepts.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virti-shah-a692a722a/) or you can mail me on: [![GMail Badge](https://img.shields.io/badge/-kakbar-orange?style=flat&logo=GMail&logoColor=white)](vpshah247@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VirtiShah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virti-shah-a692a722a/) or you can mail me on: [![GMail Badge](https://img.shields.io/badge/VirtiShah--orange?style=flat&logo=GMail&logoColor=white)](vpshah247@gmail.com)
 
 ---
 
@@ -33,4 +34,4 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VirtiShah247&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-VirtiShah247&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-VirtiShah247&layout=compact&theme=vision-friendly-dark)](https://github.com/VirtiShah247/github-readme-stats)
