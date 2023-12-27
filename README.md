@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600" height="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -61,4 +61,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VirtiShah247&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=gruvbox&color=yellow&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=dracula&layout=compact&hide_border=true)
