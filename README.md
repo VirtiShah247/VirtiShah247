@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I listen to songs ,solve problems on the Hackerrank and learning new concepts.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VirtiShah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virti-shah-a692a722a/) or you can mail me on: ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:vpshah247@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VirtiShah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/virti-shah-a692a722a/) or you can mail me on: [![GMail Badge](https://img.shields.io/badge/-VirtiShah-orange?style=flat&logo=GMail&logoColor=white)](mailto:vpshah247@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -61,4 +61,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VirtiShah247&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=dark&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=gruvbox&color=yellow&layout=compact&hide_border=true)
