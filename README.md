@@ -62,10 +62,12 @@
 <table>
    <tr>
       <td>
-         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VirtiShah247&theme=dark&hide_border=true)](https://git.io/streak-stats)
+         <a href="https://git.io/streak-stats" target="_blank">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=VirtiShah247&theme=dark&hide_border=true" alt="GitHub Streak" />
+         </a>
       </td>
       <td>
-         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=dracula&layout=compact&hide_border=true) 
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
       </td>
    </tr>
 </table>
