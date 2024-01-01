@@ -59,5 +59,13 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VirtiShah247&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=dracula&layout=compact&hide_border=true)
+<table>
+   <tr>
+      <td>
+         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VirtiShah247&theme=dark&hide_border=true)](https://git.io/streak-stats)
+      </td>
+      <td>
+         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtiShah247&theme=dracula&layout=compact&hide_border=true) 
+      </td>
+   </tr>
+</table>
